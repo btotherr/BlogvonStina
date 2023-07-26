@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Most gangsta blog ever
-email: your-email@example.com
+email: christinamariajahn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog bitches! 
 
@@ -28,9 +28,7 @@ baseurl: btotherr.github.io # the subpath of your site, e.g. /blog
 url: https://btotherr.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /BlogvonStina/
 
-twitter_username: jekyllrb
-github_username:  jekyll
-
+instagram_username: stina.del.sol
 # Build settings
 theme: minima
 markdown:           kramdown
