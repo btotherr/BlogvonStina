@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Most gangsta blog ever
+title: Pult and Paper
 email: christinamariajahn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my blog bitches! 
+  Welcome to Pulp and Paper. 
 
 
 baseurl: btotherr.github.io # the subpath of your site, e.g. /blog
