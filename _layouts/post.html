@@ -24,10 +24,11 @@ layout: default
               <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
               on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
               content=page.content %}
+
+
             </span>
-          </div>
-        </div>
-        <div class="post-categories">
+
+            <div class="post-categories">
           {% if post %}
             {% assign categories = post.categories %}
           {% else %}
@@ -38,6 +39,9 @@ layout: default
           {% unless forloop.last %}&nbsp;{% endunless %}
           {% endfor %}
         </div>
+          </div>
+        </div>
+        
       </div>
     </div>
   </header>
