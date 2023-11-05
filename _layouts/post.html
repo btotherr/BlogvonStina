@@ -28,7 +28,7 @@ layout: default
 
             </span>
 
-            <div class="post-categories">
+            <span class="meta">
           {% if post %}
             {% assign categories = post.categories %}
           {% else %}
@@ -38,7 +38,9 @@ layout: default
           <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
           {% unless forloop.last %}&nbsp;{% endunless %}
           {% endfor %}
-        </div>
+        </span>
+
+        
           </div>
         </div>
         
