@@ -1,5 +1,5 @@
 ---
 layout: category
-title: category/jekyll
+title: category/Kurzgeschichte
 permalink: '/category/Kurzgeschichte'
 ---
