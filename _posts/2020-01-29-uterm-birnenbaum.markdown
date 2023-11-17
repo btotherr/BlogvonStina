@@ -3,7 +3,7 @@ layout: post
 title: "Unterm Birnenbaum"
 date: 2020-01-29 23:45:13 -0400
 background: '/img/posts/birnenbaum1.jpg'
-categories: Kurzgechichte
+categories: posts/Kurzgechichte
 ---
 
 Der Mond glotzte und schwieg. Er verbarg sein fahles Gesicht hinter fliehenden Wolkenbildern, nur um von Zeit zu Zeit schüchtern hervor zu spähen und die gekachelten Dächer mit seinem Blick zu versilbern. Womöglich wollte er sie trösten, die ganzen schlaflosen Seelen, die noch immer verzweifelt Schafe zählten. Oder aber er wollte den Menschen beistehen, die sich trauten dem Sturm zu trotzen, der wütend an Wurzeln, Türen und Rollläden riss.
