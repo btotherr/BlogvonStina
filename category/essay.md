@@ -1,5 +1,5 @@
 ---
 layout: category
 title: categories/Essay
-permalink: '/categories/Essay'
+permalink: '/category/Essay'
 ---
