@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Kurzgechichten
-permalink: '/posts/kurzgechichten'
+title: Kurzgeschichte
+permalink: '/posts/kurzgeschichte'
 ---
