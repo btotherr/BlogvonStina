@@ -3,7 +3,7 @@ layout: post
 title:  "Brautnacht"
 date:   2023-07-02 17:04:53 +0200
 background: '/img/posts/brautnacht.jpg'
-categories: Kurzgechichten
+categories: Kurzgeschichten
 ---
 
 

@@ -3,7 +3,7 @@ layout: post
 title: "Der Tod des Autors"
 date: 2023-07-18 23:45:13 -0400
 background: '/img/posts/01.jpg'
-categories: Kurzgechichten
+categories: Kurzgeschichten
 ---
 
 <p>Zum Schreiben habe ich Kerzen entzündet und Wein eingeschenkt.

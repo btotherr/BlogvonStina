@@ -3,7 +3,7 @@ layout: post
 title: "Was man sehen will"
 date: 2023-07-23 23:45:13 -0400
 background: '/img/posts/wasmansehenwill.jpg'
-categories: Kurzgechichten
+categories: Kurzgeschichten
 ---
 
 
