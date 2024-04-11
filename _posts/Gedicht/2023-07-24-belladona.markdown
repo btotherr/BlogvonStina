@@ -3,7 +3,7 @@ layout: post
 title: "Belladonna"
 date: 2023-07-22 13:00:13 -0400
 background: '/img/posts/02.jpg'
-categories : posts/jekyll
+categories : Lyrik
 ---
 
 <p>Schau mir in die Höhle, die sie Auge nennen</p>
