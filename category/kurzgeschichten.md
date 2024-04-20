@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Kurzgeschichte
-permalink: '/posts/kurzgeschichte'
+title: Kurzgeschichten
+permalink: '/posts/kurzgeschichten'
 ---
