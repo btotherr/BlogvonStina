@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Videographische Projekte
-permalink: '/posts/videoprojekte'
+permalink: '/posts/videographische-projekte'
 ---
